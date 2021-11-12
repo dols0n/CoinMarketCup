@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CoinMarketCup/static/css/main.c6245b0e.chunk.css",
+    "main.js": "/CoinMarketCup/static/js/main.af873eb3.chunk.js",
+    "main.js.map": "/CoinMarketCup/static/js/main.af873eb3.chunk.js.map",
+    "runtime-main.js": "/CoinMarketCup/static/js/runtime-main.5d3f64e3.js",
+    "runtime-main.js.map": "/CoinMarketCup/static/js/runtime-main.5d3f64e3.js.map",
+    "static/js/2.6b145c5e.chunk.js": "/CoinMarketCup/static/js/2.6b145c5e.chunk.js",
+    "static/js/2.6b145c5e.chunk.js.map": "/CoinMarketCup/static/js/2.6b145c5e.chunk.js.map",
+    "index.html": "/CoinMarketCup/index.html",
+    "static/css/main.c6245b0e.chunk.css.map": "/CoinMarketCup/static/css/main.c6245b0e.chunk.css.map",
+    "static/js/2.6b145c5e.chunk.js.LICENSE.txt": "/CoinMarketCup/static/js/2.6b145c5e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d3f64e3.js",
+    "static/js/2.6b145c5e.chunk.js",
+    "static/css/main.c6245b0e.chunk.css",
+    "static/js/main.af873eb3.chunk.js"
+  ]
+}
